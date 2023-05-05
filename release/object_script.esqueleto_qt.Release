@@ -1,0 +1,16 @@
+release/basic_object3d.o
+release/cilindro.o
+release/cono.o
+release/cube.o
+release/esfera.o
+release/file_ply_stl.o
+release/object3d.o
+release/axis.o
+release/ply_object.o
+release/profil_object.o
+release/tetrahedron.o
+release/main.o
+release/glwidget.o
+release/window.o
+release/moc_glwidget.o
+release/moc_window.o
